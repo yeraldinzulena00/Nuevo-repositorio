@@ -17,11 +17,5 @@ for(i = 0; i < APPLE_QUANTITY; i ++){
 // 3. Write a function
 var sayHello = function(){
   console.log("Hello!")
-}
 
-// 4. Create an object
-var mary = {
-  name: "Mary Rose",
-  codeNinja: true,
-  country: "UK"
 }
